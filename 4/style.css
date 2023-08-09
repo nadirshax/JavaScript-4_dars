@@ -1,0 +1,11 @@
+h1 {
+  color: chartreuse;
+
+}
+
+button::after ::before {
+  color: red;
+  background-color: chartreuse;
+
+
+}
